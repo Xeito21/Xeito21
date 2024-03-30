@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xeito</h1>
 <h3 align="center">I am a student interested in UI/UX and Game Research. I am currently doing college and thesis work.</h3>
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/763945276695117845/1219186004569886741/tirza-van-dijk-o1SKqmgSDbg-unsplash.jpg?ex=66139cf2&is=660127f2&hm=6a2dc6fe8e06e46cd9634e42ce2b9953d75dee9f7a05b231797d8c98a8fa87f6&=&format=webp&width=550&height=309" alt="Banner">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeito21&label=Profile%20views&color=0e75b6&style=flat" alt="xeito21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xeito21" alt="xeito21" /></a> </p>
 
 - 🔭 I’m currently working on [Game Education Gajah Mada](https://github.com/Xeito21/Game-Education-GajahMada/tree/main)
 
