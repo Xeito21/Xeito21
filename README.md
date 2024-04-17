@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Xeito</h1>
 <h3 align="center">I am a student interested in UI/UX and Game Research. I am currently doing college and thesis work.</h3>
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/763945276695117845/1219186004569886741/tirza-van-dijk-o1SKqmgSDbg-unsplash.jpg?ex=66139cf2&is=660127f2&hm=6a2dc6fe8e06e46cd9634e42ce2b9953d75dee9f7a05b231797d8c98a8fa87f6&=&format=webp&width=550&height=309" alt="Banner">
+  <img src="https://media.discordapp.net/attachments/763945276695117845/1230116040730742806/image.png?ex=663225d6&is=661fb0d6&hm=bfc168bfd5c8e963b1b8985f5a0b5854ca14916a5bccf54123719b22617981cd&=&format=webp&quality=lossless&width=550&height=248" alt="Banner">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeito21&label=Profile%20views&color=0e75b6&style=flat" alt="xeito21" /> </p>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/:333601392977772545)](https://discord.com/users/:333601392977772545)
 
 - 🔭 I’m currently working on [Game Education Gajah Mada](https://github.com/Xeito21/Game-Education-GajahMada/tree/main)
 
