@@ -5,7 +5,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xeito21&label=Profile%20views&color=0e75b6&style=flat" alt="xeito21" /> </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/:333601392977772545)](https://discord.com/users/:333601392977772545)
 
 - 🔭 I’m currently working on [Game Education Gajah Mada](https://github.com/Xeito21/Game-Education-GajahMada/tree/main)
 
